@@ -1,0 +1,6 @@
+{
+    "config": {
+        "guild_id": "your_guild_id_here",
+        "token": "your_discord_token_here"
+    }
+}
